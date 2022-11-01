@@ -10,4 +10,6 @@ Trained on SVHN fully supervised, then test on SVHN: 91%
 
 Trained on SVHN fully supervised, then test on MNIST: 65%
 
-Trained using this method, using source as SVHN labeled and target MNIST unlabeled and tested on MNIST: 71%, with epochs = 50 and n = 2.
+Trained using this method, using source as SVHN labeled and target MNIST unlabeled and tested on MNIST: 
+epochs = 50 and n = 2 : 71% 
+epochs = 15 and n = 4 : 76% 
